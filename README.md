@@ -25,6 +25,7 @@ A curated list of top AI directories, startup discovery platforms, and submissio
 | **Future Tools** | **69** | Matt Wolfe | [futuretools.io](https://www.futuretools.io/) | [Submit Tool](https://www.futuretools.io/submit-a-tool) |
 | **G2** | **91** | Godard Abel | [g2.com](https://www.g2.com/) | [List Software](https://sell.g2.com/) |
 | **Insidr AI** | **48** | Insidr Team | [insidr.ai](https://www.insidr.ai/) | [Submit Tool](https://www.insidr.ai/submit-ai-tool/) |
+| **Intelligent Tools** | **2.5** | Boki | [intelligenttools.co](https://intelligenttools.co/) | [Submit Tool](https://intelligenttools.co/submit) |
 | **Launching Next** | **52** | Launching Next Team | [launchingnext.com](https://www.launchingnext.com/) | [Submit Startup](https://www.launchingnext.com/submit/) |
 | **Product Hunt** | **91** | Ryan Hoover | [producthunt.com](https://www.producthunt.com/) | [Post Product](https://www.producthunt.com/posts/new) |
 | **SaaSHub** | **80** | Stan Bright | [saashub.com](https://www.saashub.com/) | [Submit Software](https://www.saashub.com/submit) |
