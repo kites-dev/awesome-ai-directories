@@ -21,6 +21,7 @@ A curated list of top AI directories, startup discovery platforms, and submissio
 | **BetaList** | **76** | Marc Köhlbrugge | [betalist.com](https://betalist.com/) | [Submit Startup](https://betalist.com/submit) |
 | **Capterra** | **91** | Gartner Digital Markets | [capterra.com](https://www.capterra.com/) | [List Product](https://www.capterra.com/) |
 | **Easy With AI** | **59** | Easy With AI Team | [easywithai.com](https://easywithai.com/) | [Submit AI Tool](https://easywithai.com/submit-ai-tool/) |
+| **FalcoScan** | **0** | FalcoScan | [falcoscan.com](https://falcoscan.com/) | [Submit Tool](https://falcoscan.com/submit) |
 | **Futurepedia** | **72** | Futurepedia LLC | [futurepedia.io](https://www.futurepedia.io/) | [Submit Tool](https://www.futurepedia.io/submit-tool) |
 | **Future Tools** | **69** | Matt Wolfe | [futuretools.io](https://www.futuretools.io/) | [Submit Tool](https://www.futuretools.io/submit-a-tool) |
 | **G2** | **91** | Godard Abel | [g2.com](https://www.g2.com/) | [List Software](https://sell.g2.com/) |
