@@ -12,6 +12,7 @@ A curated list of top AI directories, startup discovery platforms, and submissio
 | :--- | :---: | :--- | :--- | :--- |
 | **AI Tool Hunt** | **55** | AI Tool Hunt Team | [aitoolhunt.com](https://aitoolhunt.com/) | [Submit Tool](https://aitoolhunt.com/) |
 | **AI Tools fyi** | **43** | AI Tools FYI Team | [aitools.fyi](https://aitools.fyi/) | [Submit Tool](https://aitools.fyi/) |
+| **AI Tools Radar** | — | AI Tools Radar team | [aitoolsradar.com](https://aitoolsradar.com/) | [Submit Tool](https://aitoolsradar.com/en/submit) |
 | **AI Website Directory** | **13** | **Kites.Dev LLC** | [aiwebsitedirectory.com](https://aiwebsitedirectory.com/) | [Submit Tool](https://aiwebsitedirectory.com/) |
 | **AIxploria** | **56** | AIxploria Team | [aixploria.com](https://www.aixploria.com/) | [Submit Tool](https://www.aixploria.com/submit-ai/) |
 | **All Things AI** | **47** | All Things AI Team | [allthingsai.com](https://allthingsai.com/) | [Submit Tool](https://allthingsai.com/submit) |
